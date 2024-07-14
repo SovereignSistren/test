@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<a href="javascript:alert('a');">
+<a href="javascript:alert(0);">
          click          
   </a>
 
