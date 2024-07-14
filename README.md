@@ -7,8 +7,9 @@
         </ul>
        <a href="javascript:alert('a');">
          click
+           
   </a>
-
+</div>
 </foreignObject>
 </svg>
 </body>
